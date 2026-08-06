@@ -1,11 +1,11 @@
-install.packages("janitor")
-install.packages("here")
+#install.packages("janitor")
+#install.packages("here")
 
 library(tidyverse)
 library(readxl)
 library(janitor)
 library(here)
- here()
+here()
  file_path <- here(
    "data",
    "raw",
@@ -27,3 +27,12 @@ names(raw_data) <- sheet_names
 map(raw_data, dim)
 
 View(raw_data[[1]])
+
+write.csv(raw_data, "data/raw_data.csv")
+write.csv(
+  raw_data,
+  "data/processed/raw_data.csv",
+  row.names = FALSE
+)
+
+])
