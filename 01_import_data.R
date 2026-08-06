@@ -28,11 +28,7 @@ map(raw_data, dim)
 
 View(raw_data[[1]])
 
-write.csv(raw_data, "data/raw_data.csv")
-write.csv(
-  raw_data,
-  "data/processed/raw_data.csv",
-  row.names = FALSE
-)
+write.csv(raw_data, "data/processed/raw_data.csv")
 
-])
+
+
