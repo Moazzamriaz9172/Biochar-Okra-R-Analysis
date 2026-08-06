@@ -1,0 +1,17 @@
+Variable,F_value,P_value,Homogeneity
+plant_height_cm,0.2,0.9327,Equal Variance
+shoot_dry_weight_g,0.3561,0.8342,Equal Variance
+shoot_fresh_weight_g,0.7045,0.6067,Equal Variance
+root_fresh_weight_g,0.1591,0.9543,Equal Variance
+root_dry_weight_g,0.287,0.8798,Equal Variance
+pod_fresh_weight_g,0.1496,0.9589,Equal Variance
+pod_dry_weight_g,0.2818,0.8832,Equal Variance
+pods_per_plant,0.1875,0.9395,Equal Variance
+grains_per_pod,0.6548,0.6368,Equal Variance
+pod_length_cm,0.6296,0.6525,Equal Variance
+grain_k_pct,0.0841,0.9854,Equal Variance
+plant_k_pct,0.4778,0.7517,Equal Variance
+plant_n_pct,0.4476,0.7722,Equal Variance
+grain_n_pct,0.5971,0.6731,Equal Variance
+plant_p_pct,1.1742,0.3789,Equal Variance
+grain_p_pct,0.0602,0.9922,Equal Variance

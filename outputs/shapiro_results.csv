@@ -1,0 +1,17 @@
+Variable,W,P_value,Normality
+plant_height_cm,0.9136,0.1539,Normal
+shoot_dry_weight_g,0.9185,0.1828,Normal
+shoot_fresh_weight_g,0.9627,0.74,Normal
+root_fresh_weight_g,0.911,0.1405,Normal
+root_dry_weight_g,0.9409,0.3936,Normal
+pod_fresh_weight_g,0.9018,0.1014,Normal
+pod_dry_weight_g,0.9502,0.5274,Normal
+pods_per_plant,0.8334,0.0102,Not Normal
+grains_per_pod,0.8177,0.0063,Not Normal
+pod_length_cm,0.9364,0.3393,Normal
+grain_k_pct,0.967,0.8122,Normal
+plant_k_pct,0.9006,0.0971,Normal
+plant_n_pct,0.8249,0.0078,Not Normal
+grain_n_pct,0.8623,0.026,Not Normal
+plant_p_pct,0.9433,0.4252,Normal
+grain_p_pct,0.8924,0.0729,Normal
