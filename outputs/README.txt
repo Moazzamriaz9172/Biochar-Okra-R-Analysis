@@ -1,6 +1,6 @@
 FINAL ANALYSIS OUTPUTS
 
-This directory contains the statistical outputs generated
+This directory contains the statistical output generated
 from the okra mixed-wood biochar experiment.
 
 Main files:
