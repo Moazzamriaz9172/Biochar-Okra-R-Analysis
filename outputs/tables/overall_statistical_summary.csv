@@ -1,0 +1,17 @@
+Response,p.value,Significance,Result
+plant_height_cm,0.006882403418285928,**,Highly significant treatment effect
+shoot_dry_weight_g,0.6476133619464783,ns,No significant treatment effect
+shoot_fresh_weight_g,0.14823414253831274,ns,No significant treatment effect
+root_fresh_weight_g,0.15255218240374407,ns,No significant treatment effect
+root_dry_weight_g,0.005323637857499309,**,Highly significant treatment effect
+pod_fresh_weight_g,1.4245306337458294e-6,***,Highly significant treatment effect
+pod_dry_weight_g,0.05159224182613702,.,No significant treatment effect
+pods_per_plant,0.2115048902331026,ns,No significant treatment effect
+grains_per_pod,4.91063669843789e-7,***,Highly significant treatment effect
+pod_length_cm,0.03181238730997326,*,Significant treatment effect
+grain_k_pct,1.0199307426924607e-5,***,Highly significant treatment effect
+plant_k_pct,3.203779364584086e-9,***,Highly significant treatment effect
+plant_n_pct,1.0355223361763897e-5,***,Highly significant treatment effect
+grain_n_pct,0.003239796884357887,**,Highly significant treatment effect
+plant_p_pct,0.003132231634715094,**,Highly significant treatment effect
+grain_p_pct,1.351508537817851e-8,***,Highly significant treatment effect

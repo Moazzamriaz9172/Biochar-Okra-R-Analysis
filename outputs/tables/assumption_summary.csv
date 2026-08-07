@@ -1,0 +1,17 @@
+Response,W,P_value.x,Normality,F_value,P_value.y,Homogeneity
+plant_height_cm,0.9136,0.1539,Normal,0.2,0.9327,Equal Variance
+shoot_dry_weight_g,0.9185,0.1828,Normal,0.3561,0.8342,Equal Variance
+shoot_fresh_weight_g,0.9627,0.74,Normal,0.7045,0.6067,Equal Variance
+root_fresh_weight_g,0.911,0.1405,Normal,0.1591,0.9543,Equal Variance
+root_dry_weight_g,0.9409,0.3936,Normal,0.287,0.8798,Equal Variance
+pod_fresh_weight_g,0.9018,0.1014,Normal,0.1496,0.9589,Equal Variance
+pod_dry_weight_g,0.9502,0.5274,Normal,0.2818,0.8832,Equal Variance
+pods_per_plant,0.8334,0.0102,Not Normal,0.1875,0.9395,Equal Variance
+grains_per_pod,0.8177,0.0063,Not Normal,0.6548,0.6368,Equal Variance
+pod_length_cm,0.9364,0.3393,Normal,0.6296,0.6525,Equal Variance
+grain_k_pct,0.967,0.8122,Normal,0.0841,0.9854,Equal Variance
+plant_k_pct,0.9006,0.0971,Normal,0.4778,0.7517,Equal Variance
+plant_n_pct,0.8249,0.0078,Not Normal,0.4476,0.7722,Equal Variance
+grain_n_pct,0.8623,0.026,Not Normal,0.5971,0.6731,Equal Variance
+plant_p_pct,0.9433,0.4252,Normal,1.1742,0.3789,Equal Variance
+grain_p_pct,0.8924,0.0729,Normal,0.0602,0.9922,Equal Variance
